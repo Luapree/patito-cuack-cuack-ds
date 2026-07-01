@@ -5,7 +5,7 @@
 #include <maxmod9.h>
 #include "pato.h"
 #include "soundbank_bin.h"
-#define MOD_TITLE 0
+#include "soundbank.h"
 
 int main(void)
 {
