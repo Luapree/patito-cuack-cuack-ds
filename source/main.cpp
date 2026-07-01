@@ -3,8 +3,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <maxmod9.h>
-#include "drunkenlogo.h"  // cambiara el nombre del archivo pero a este punto me quiero pegar un tiro...
-#include "soundbank.h"
+#include "pato.h"
 #include "soundbank_bin.h"
 #define MOD_TITLE 0
 
@@ -21,8 +20,8 @@ int main(void)
 
 	int bg3 = bgInit(3, BgType_Bmp8, BgSize_B8_256x256, 0,0);
 
-	dmaCopy(drunkenlogoBitmap, bgGetGfxPtr(bg3), 256*256);
-	dmaCopy(drunkenlogoPal, BG_PALETTE, 256*2);
+	dmaCopy(patoBitmap, bgGetGfxPtr(bg3), 256*256);
+	dmaCopy(patoPal, BG_PALETTE, 256*2);
 	mmEffect( SFX_PATITO );
 
 	while(pmMainLoop()) {
