@@ -1,5 +1,5 @@
 # Patito cuac cuac
-hey guys its me patito cuac cuac<br>
+hello everyone its me patito cuac cuac<br>
 [aquel](https://www.youtube.com/watch?v=sqgSKgznvFI) meme solo que ahora es real<br>
 ![alt text](docs/image.png)
 ## Construir
