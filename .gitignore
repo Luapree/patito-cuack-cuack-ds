@@ -1,4 +1,6 @@
 *.elf
 *.nds
+*.gba
+*.sav
 /build/
 *.map
