@@ -1,7 +1,7 @@
 # Patito cuac cuac
 hello everyone its me patito cuac cuac<br>
 [aquel](https://www.youtube.com/watch?v=sqgSKgznvFI) meme solo que ahora es real<br>
-![alt text](data/pato.png)
+![alt text](gfx/pato.bmp)
 ## Construir
 para este port necesitaras devkitpro con gba-dev y butano, luego ejecuta
 ```bash
