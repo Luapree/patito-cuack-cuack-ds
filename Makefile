@@ -33,7 +33,7 @@
 #---------------------------------------------------------------------------------------------------------------------
 TARGET      	:=  $(notdir $(CURDIR))
 BUILD       	:=  build
-LIBBUTANO   	:=  C:/butano/butano
+LIBBUTANO   	:=  ../../butano
 PYTHON      	:=  python
 SOURCES     	:=  source ../../common/source
 INCLUDES    	:=  include ../../common/include
