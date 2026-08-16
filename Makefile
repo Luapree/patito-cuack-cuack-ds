@@ -6,9 +6,11 @@ ifeq ($(strip $(DEVKITARM)),)
 $(error "Please set DEVKITARM in your environment. export DEVKITARM=<path to>devkitARM")
 endif
 
-# PARA HACER: icono (lo haria ahora mismo pero no quiero pasarme unas 2 horas mas...)
-
 include $(DEVKITARM)/ds_rules
+
+GAME_TITLE      := Patito cuac cuac
+GAME_SUBTITLE1   := Patito cuac cuac in nintendo ds!
+GAME_SUBTITLE2     := patito (real)
 
 #---------------------------------------------------------------------------------
 # TARGET is the name of the output
