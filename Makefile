@@ -29,7 +29,7 @@ BUILD		:=	build
 SOURCES		:=	source
 INCLUDES	:=	include
 MUSIC       :=  audio
-GRAPHICS	:=	data
+GRAPHICS	:=	gfx
 
 #---------------------------------------------------------------------------------
 # options for code generation
