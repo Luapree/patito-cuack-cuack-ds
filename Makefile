@@ -24,7 +24,7 @@ GAME_SUBTITLE2     := patito (real)
 # the makefile is found
 #
 #---------------------------------------------------------------------------------
-TARGET		:=	$(shell basename $(CURDIR))
+TARGET		:=	patito-cuac-cuac-nds
 BUILD		:=	build
 SOURCES		:=	source
 INCLUDES	:=	include
