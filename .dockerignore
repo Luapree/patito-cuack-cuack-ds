@@ -1,4 +1,14 @@
 *.elf
+# ds
+
 *.nds
-/build/
+# gba
+
+*.gba
+*.sav
+build/
+butano/
 *.map
+
+!docker/Dockerfile.nds
+!docker/Dockerfile.gba
