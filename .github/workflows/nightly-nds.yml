@@ -6,7 +6,7 @@ on:
       - source/platforms/nds/*
       - audio/nds/*
       - gfx/nds/*
-      - .github/workflows/nightly.yml
+      - .github/workflows/nightly-nds.yml
       - docker/dockerfile.nds
       - source/main.cpp
     branches:

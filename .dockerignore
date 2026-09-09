@@ -10,5 +10,5 @@ build/
 butano/
 *.map
 
-!docker/Dockerfile.nds
-!docker/Dockerfile.gba
+!docker/dockerfile.nds
+!docker/dockerfile.gba

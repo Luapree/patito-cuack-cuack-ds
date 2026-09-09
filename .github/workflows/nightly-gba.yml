@@ -6,7 +6,7 @@ on:
       - source/platforms/gba/*
       - audio/gba/*
       - gfx/gba/*
-      - .github/workflows/nightly.yml
+      - .github/workflows/nightly-gba.yml
       - docker/dockerfile.gba
       - source/main.cpp
     branches:
